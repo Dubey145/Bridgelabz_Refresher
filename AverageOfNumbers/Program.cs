@@ -1,5 +1,5 @@
 ﻿using System;
-
+//udet mc
 namespace AverageOfNumbers
 {
     internal class Program
